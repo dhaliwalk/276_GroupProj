@@ -1,5 +1,7 @@
 # Farmagatchi
 
+Link: https://group-proj-276-heroku.herokuapp.com/login?redirect=/main
+
 Application was created using Node.js in a group of 4.
 
 Farmagatchi is our web application that creates a virtual character for you to play with, take care of, and level up in order to progress throughout the game. Users will create an account that is exclusive to themselves, and have their game progress saved in order to come back to where their farmagatchi previously left off! 

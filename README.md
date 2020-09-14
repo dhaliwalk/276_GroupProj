@@ -1,4 +1,4 @@
-# 276_GroupProj
+# Farmagatchi
 
 Application was created using Node.js in a group of 4.
 

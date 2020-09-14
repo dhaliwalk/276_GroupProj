@@ -1,6 +1,6 @@
 # Farmagatchi
 
-Link: https://group-proj-276-heroku.herokuapp.com/login?redirect=/main
+Link: https://group-proj-276-heroku.herokuapp.com
 
 Application was created using Node.js in a group of 4.
 
